@@ -1,0 +1,17 @@
+{
+    "intents": [
+        {
+            "intent": "Hungry",
+          "slots": [
+                {
+                    "name": "Station",
+                    "type": "materials"
+                }
+            ]
+        },
+      {
+            "intent": "Ing"
+          
+        }
+    ]
+}
