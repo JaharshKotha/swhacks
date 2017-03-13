@@ -1,2 +1,0 @@
-# swhacks
-hackathon 
